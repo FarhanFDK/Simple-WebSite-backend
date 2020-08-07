@@ -1,0 +1,19 @@
+{
+  "name": "simple-pwa",
+  "version": "1.0.0",
+  "description": "A free template for PWA.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanFDK/Simple-WebSite-backend.git"
+  },
+  "author": "FarhanFDK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FarhanFDK/Simple-WebSite-backend/issues"
+  },
+  "homepage": "https://github.com/FarhanFDK/Simple-WebSite-backend#readme"
+}
