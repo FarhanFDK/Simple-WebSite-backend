@@ -1,2 +1,2 @@
 # Simple-WebSite-backend
-Database connection template
+Database connection template.Free to use!
