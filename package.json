@@ -1,0 +1,19 @@
+{
+  "name": "simple-database-connection",
+  "version": "1.0.0",
+  "description": "Simple Database connection.Free to use!",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanFDK/Simple-WebSite-backend.git"
+  },
+  "author": "FarhanFDK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FarhanFDK/Simple-WebSite-backend/issues"
+  },
+  "homepage": "https://github.com/FarhanFDK/Simple-WebSite-backend#readme"
+}
