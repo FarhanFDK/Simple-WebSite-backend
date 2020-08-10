@@ -36,6 +36,7 @@
             $headers .= 'Cc: xyz@example.com"' . "\r\n";
             mail($to,$subject,$message,$headers);
         }
+        sendMail();
     ?>
 </body>
 </html>
