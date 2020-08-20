@@ -1,0 +1,16 @@
+{
+    "name": "farhanfdk/simple-pwa",
+    "type": "library",
+    "description": "simple pwa",
+    "keywords": [""],
+    "homepage": "https://github.com/FarhanFDK/Simple-WebSite-backend.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FarhanFDK",
+            "email": "farhanabdollahisd@gmail.com",
+            "homepage": "https://github.com/FarhanFDK/Simple-WebSite-backend.git",
+            "role": "Developer"
+        }
+    ]
+}
