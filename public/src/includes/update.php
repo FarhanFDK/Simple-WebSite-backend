@@ -14,7 +14,7 @@
         if($result){
             exit("<center>SUCCESS</center>");
         }else{
-            exit("FAILED!");
+            exit("<center>FAILED!</center>");
         }
     }
 ?>
